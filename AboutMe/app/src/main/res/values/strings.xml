@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Guilherme Marchetto</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">
+        Hi, my name is Guilherme.
+        \n\nA dedicated enthusiast immersed in the fascinating world of aquatic wonders. Born with a love for the serene beauty of underwater ecosystems, has transformed a childhood fascination into a lifelong passion for fish and aquariums.
+        \nMy journey into the realm of aquariums began with a modest fishbowl, but as the passion swelled, so did the tanks. From the graceful dance of bettas to the vibrant hues of tropical fish, my collection evolved into a mesmerizing array of underwater landscapes, each meticulously crafted to emulate the unique habitats of its inhabitants.
+        \nAn advocate for responsible aquascaping that blends artistic flair with scientific precision to ensure each aquarium is a thriving ecosystem where flora and fauna coexist harmoniously. With a keen eye for aesthetics to transform aquariums into living artworks, where aquatic plants sway in the currents, and fish glide through crystal-clear waters.
+        \nAs a lifelong learner, I dive into the depths of ichthyology and aquascaping trends, constantly refining her knowledge and techniques.
+        \nEvery nuanced ripple narrates a unique tale, and each aquatic denizen is a valued companion. As I continue to chart the vast terrain of aquascaping possibilities, envisioning a future where her passion for underwater realms serves as a catalyst for enthusiasts to dive into the captivating world of aquariums.
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
